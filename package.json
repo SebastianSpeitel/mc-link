@@ -1,7 +1,7 @@
 {
   "name": "mc-link",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Run minecraft commands from outside your world using only datapacks.",
   "main": "legacy/index.js",
   "module": "dist/index.js",
   "files": [
